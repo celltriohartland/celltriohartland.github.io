@@ -7,7 +7,7 @@ rh._.exports(defaultTopic);
 rh.consts('DEFAULT_TOPIC', encodeURI("User_Guides/First_Topic.htm"));
 rh.consts('HOME_FILEPATH', encodeURI('index.htm'));
 rh.consts('START_FILEPATH', encodeURI('index.htm'));
-rh.consts('HELP_ID', 'c04a17eb-7a15-4555-8809-31d2a07a2c2c' || 'preview');
+rh.consts('HELP_ID', '9924ff50-0386-421e-8c62-904e5145a518' || 'preview');
 rh.consts('LNG_SUBSTR_SEARCH', 0);
 
 model.publish(rh.consts('KEY_LNG_NAME'), "en");
@@ -17,7 +17,7 @@ model.publish(rh.consts('KEY_LNG'), {"BreadcrumbStart":"Home:","BrsNextButton":"
 model.publish(rh.consts('KEY_HEADER_TITLE'), "Celltrio Documentation");
 model.publish(rh.consts('PDF_FILE_NAME'), "");
 model.publish(rh.consts('MAX_SEARCH_RESULTS'), "20");
-model.publish(rh.consts('KEY_SKIN_FOLDER_NAME'), "Dark");
+model.publish(rh.consts('KEY_SKIN_FOLDER_NAME'), "Studio");
 model.publish(rh.consts('CHAT_API_SESSION_TOKEN'), "");
 model.publish(rh.consts('CHAT_API_PROJ_ID'), "");
 

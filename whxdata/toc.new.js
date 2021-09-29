@@ -1,1 +1,1 @@
-(function() {    var toc =  [{"name":"User Guides","type":"book","tilePath":"","key":"toc1"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
+(function() {    var toc =  [{"name":"User Guides","type":"book","tilePath":"","key":"toc1"},{"name":"Datasheets","type":"book","tilePath":"","key":"toc2"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
